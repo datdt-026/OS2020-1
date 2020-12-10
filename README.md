@@ -14,3 +14,6 @@ datdt.bi10-026@st.usth.edu.vn
 
 - Trịnh Quốc Hiếu Bi10-060 CS
   hieutq.bi10-060@st.usth.edu.vn
+
+- Đỗ Thanh Hiếu Bi10-059 ICT
+  hieudt.bi10-059@stusth.edu.vn
